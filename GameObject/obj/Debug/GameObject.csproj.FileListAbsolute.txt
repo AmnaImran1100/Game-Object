@@ -1,0 +1,14 @@
+C:\University\Semester2\Week 5\GameObject\GameObject\bin\Debug\GameObject.exe.config
+C:\University\Semester2\Week 5\GameObject\GameObject\bin\Debug\GameObject.exe
+C:\University\Semester2\Week 5\GameObject\GameObject\bin\Debug\GameObject.pdb
+C:\University\Semester2\Week 5\GameObject\GameObject\obj\Debug\GameObject.csproj.AssemblyReference.cache
+C:\University\Semester2\Week 5\GameObject\GameObject\obj\Debug\GameObject.csproj.CoreCompileInputs.cache
+C:\University\Semester2\Week 5\GameObject\GameObject\obj\Debug\GameObject.exe
+C:\University\Semester2\Week 5\GameObject\GameObject\obj\Debug\GameObject.pdb
+D:\University\Semester2\Week 5\GameObject\GameObject\bin\Debug\GameObject.exe.config
+D:\University\Semester2\Week 5\GameObject\GameObject\bin\Debug\GameObject.exe
+D:\University\Semester2\Week 5\GameObject\GameObject\bin\Debug\GameObject.pdb
+D:\University\Semester2\Week 5\GameObject\GameObject\obj\Debug\GameObject.csproj.AssemblyReference.cache
+D:\University\Semester2\Week 5\GameObject\GameObject\obj\Debug\GameObject.csproj.CoreCompileInputs.cache
+D:\University\Semester2\Week 5\GameObject\GameObject\obj\Debug\GameObject.exe
+D:\University\Semester2\Week 5\GameObject\GameObject\obj\Debug\GameObject.pdb
